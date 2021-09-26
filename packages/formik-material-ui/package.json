@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stackworx/formik-material-ui"
+    "url": "https://github.com/bwlab/formik-mui.git"
   },
   "jest": {
     "globals": {

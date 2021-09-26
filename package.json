@@ -1,8 +1,8 @@
 {
   "name": "formik-mui-root",
   "version": "5.0.0",
-  "repository": "git@github.com:stackworx/formik-material-ui.git",
-  "author": "Ciaran Liedeman <ciaran@stackworx.io>",
+  "repository": "https://github.com/bwlab/formik-mui.git",
+  "author": "Luigi Massa <lmassa@bwlab.it>",
   "license": "MIT",
   "typings": "dist/main.d.ts",
   "private": true,
